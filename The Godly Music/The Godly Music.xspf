@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>The Godly Music</title>
+  <trackList>
+    <track>
+      <location>Summer%27s Ending Soon.mp3</location>
+      <title>Summer's Ending Soon</title>
+      <creator>The Midnight</creator>
+      <album>Summer's Ending Soon</album>
+      <duration>382584</duration>
+    </track>
+    <track>
+      <location>Channa Mereya.mp3</location>
+      <title>Channa Mereya</title>
+      <creator>Pritam/Arijit Singh</creator>
+      <album>Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]</album>
+      <duration>345216</duration>
+    </track>
+    <track>
+      <location>Aaj Kal Zindagi.mp3</location>
+      <title>Aaj Kal Zindagi</title>
+      <creator>Shankar-Ehsaan-Loy/Shankar Mahadevan</creator>
+      <album>Wake Up Sid (Original Motion Picture Soundtrack)</album>
+      <duration>246048</duration>
+    </track>
+    <track>
+      <location>14. Makhna - From -Drive-.mp3</location>
+      <title>Makhna - From &quot;Drive&quot;</title>
+      <creator>Yasser Desai/Tanishk Bagchi/Asees Kaur</creator>
+      <album>Makhna (From &quot;Drive&quot;)</album>
+      <duration>198744</duration>
+    </track>
+    <track>
+      <location>12. Escape.mp3</location>
+      <title>Escape</title>
+      <creator>Enrique Iglesias</creator>
+      <album>Escape</album>
+      <duration>209328</duration>
+    </track>
+    <track>
+      <location>11. Following the Sun.mp3</location>
+      <title>Following the Sun</title>
+      <creator>SUPER-Hi/NEEKA</creator>
+      <album>Following the Sun</album>
+      <duration>205920</duration>
+    </track>
+    <track>
+      <location>10. Give Me Everything %28feat. Nayer%29.mp3</location>
+      <title>Give Me Everything (feat. Nayer)</title>
+      <creator>Pitbull/AFROJACK/Ne-Yo/Nayer</creator>
+      <album>Planet Pit</album>
+      <duration>266352</duration>
+    </track>
+    <track>
+      <location>8. HEAVENLY JUMPSTYLE.mp3</location>
+      <title>HEAVENLY JUMPSTYLE</title>
+      <creator>TWXNY/Sxilwix/INNXCENCE</creator>
+      <album>HEAVENLY JUMPSTYLE</album>
+      <duration>114504</duration>
+    </track>
+    <track>
+      <location>7. Ramba Ho.mp3</location>
+      <title>Ramba Ho</title>
+      <creator>Shashwat Sachdev/Madhubanti Bagchi/Bappi Lahiri/Indiwar</creator>
+      <album>Dhurandhar</album>
+      <duration>127992</duration>
+    </track>
+    <track>
+      <location>6. Gehra Hua %28From -Dhurandhar-%29.mp3</location>
+      <title>Gehra Hua (From &quot;Dhurandhar&quot;)</title>
+      <creator>Shashwat Sachdev/Arijit Singh/Irshad Kamil/Armaan Khan</creator>
+      <album>Gehra Hua (From &quot;Dhurandhar&quot;)</album>
+      <duration>231048</duration>
+    </track>
+    <track>
+      <location>5. Dhurandhar - Title Track %28From -Dhurandhar-%29.mp3</location>
+      <title>Dhurandhar - Title Track (From &quot;Dhurandhar&quot;)</title>
+      <creator>Shashwat Sachdev/Hanumankind/Jasmine Sandlas/Sudhir Yaduvanshi/Charanjit Ahuja/Muhammad Sadiq/Ranjit Kaur/Babu Singh Maan</creator>
+      <album>Dhurandhar - Title Track (From &quot;Dhurandhar&quot;)</album>
+      <duration>159120</duration>
+    </track>
+    <track>
+      <location>4. Ishq Jalakar - Karvaan %28From -Dhurandhar-%29.mp3</location>
+      <title>Ishq Jalakar - Karvaan (From &quot;Dhurandhar&quot;)</title>
+      <creator>Shashwat Sachdev/Shahzad Ali/Subhadeep Das Chowdhury/Armaan Khan/Roshan/Irshad Kamil/Sahir Ludhianvi</creator>
+      <album>Ishq Jalakar - Karvaan (From &quot;Dhurandhar&quot;)</album>
+      <duration>160968</duration>
+    </track>
+    <track>
+      <location>3. Ik Junoon %28Paint It Red%29.mp3</location>
+      <title>Ik Junoon (Paint It Red)</title>
+      <creator>Vishal Dadlani</creator>
+      <album>Zindagi Na Milegi Dobara</album>
+      <duration>206808</duration>
+    </track>
+    <track>
+      <location>2. Sapphire %28feat. Arijit Singh%29 - Remix.mp3</location>
+      <title>Sapphire (feat. Arijit Singh) - Remix</title>
+      <creator>Ed Sheeran/Arijit Singh</creator>
+      <album>Sapphire (feat. Arijit Singh)</album>
+      <duration>180696</duration>
+    </track>
+    <track>
+      <location>1. Sooraj Ki Baahon Mein.mp3</location>
+      <title>Sooraj Ki Baahon Mein</title>
+      <creator>Dominique Cerejo/Clinton Cerejo/Loy Mendonsa</creator>
+      <album>Zindagi Na Milegi Dobara</album>
+      <duration>211080</duration>
+    </track>
+  </trackList>
+</playlist>

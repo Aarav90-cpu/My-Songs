@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>Anime</title>
+  <trackList>
+    <track>
+      <location>4. %E9%9D%92%E3%81%AE%E3%81%99%E3%81%BF%E3%81%8B.mp3</location>
+      <title>青のすみか</title>
+      <creator>Tatsuya Kitani</creator>
+      <album>青のすみか</album>
+      <duration>200784</duration>
+    </track>
+    <track>
+      <location>5. %E6%98%A5%E9%9B%B7.mp3</location>
+      <title>春雷</title>
+      <creator>Kenshi Yonezu</creator>
+      <album>BOOTLEG</album>
+      <duration>297336</duration>
+    </track>
+    <track>
+      <location>AIZO.mp3</location>
+      <title>AIZO</title>
+      <creator>King Gnu</creator>
+      <album>AIZO</album>
+      <duration>237768</duration>
+    </track>
+    <track>
+      <location>Kaikai Kitan.mp3</location>
+      <title>Kaikai Kitan</title>
+      <creator>Eve</creator>
+      <album>Kaikai Kitan / Ao No Waltz</album>
+      <duration>223440</duration>
+    </track>
+    <track>
+      <location>Manazashi-wa-Hikari.mp3</location>
+      <title>Manazashi wa Hikari</title>
+      <creator>Tatsuya Kitani</creator>
+      <album>Kaoru Hana wa Rin to Saku OP</album>
+      <duration>207504</duration>
+      <trackNum>1</trackNum>
+    </track>
+  </trackList>
+</playlist>

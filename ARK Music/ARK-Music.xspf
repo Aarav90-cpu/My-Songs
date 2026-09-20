@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>ARK-Music</title>
+  <trackList>
+    <track>
+      <location>AAG MODE.mp3</location>
+      <title>AAG MODE</title>
+      <creator>ARK Music</creator>
+      <album>ARK Hits</album>
+      <duration>122280</duration>
+    </track>
+    <track>
+      <location>Chai and Chill.mp3</location>
+      <title>Chai and Chill</title>
+      <creator>ARK Music</creator>
+      <album>ARK Hits</album>
+      <duration>207792</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Montagem Raidas.mp3</location>
+      <title>Montagem Raidas</title>
+      <creator>aarav_kharade1234</creator>
+      <duration>136032</duration>
+    </track>
+  </trackList>
+</playlist>
